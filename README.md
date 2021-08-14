@@ -4,12 +4,6 @@ More than eight years of software engineering and devops practice have provided 
 
 Diligence and dedication, responsibility, keen interest and desire to solve the problem allow me to work well as a single specialist and as a team player.
 
-Desired Improvement Areas
-devops
-cloud architect
-technical evangelist
-
-
 Skills & Expertise
 Preferred: ubuntu, coer Java, ansible, Kubernetes, Terraform, Packer, Bash scripting, Jenkins, Nagios, AWS, GCP
 
@@ -19,7 +13,8 @@ monitoring: prometheous, Nagios
 containers: docker, docker-compose, kubernetes
 language ability: native Indian, English
 
-Experience included: Planning project architectures, environments, CI & CD pipelines, etc;
+Experience included: 
+Planning project architectures, environments, CI & CD pipelines, etc;
 Setup of cloud environments, bare metal servers, operating systems;
 Improvement of develop and deployment cycles;
 Implementation of local test environments with docker and docker stuff
@@ -47,7 +42,6 @@ configuration and automation of servers and services
 Environment:
 
 AWS cloud
-Saltstack
 Jenkins
 AWS linux, Ubuntu, Centos
 Various web servers, programming languages + environments, databases, etc
